@@ -1,0 +1,13 @@
+[package]
+name = "rust_argp"
+version = "0.0.0"
+edition = "2021"
+description = "Arguments-likes strings parser"
+readme = "README.md"
+repository = "https://github.com/startracex/rust-argp"
+license-file = "LICENSE"
+keywords = ["cli", "arguments"]
+categories = ["command-line-utilities"]
+publish = true
+
+[dependencies]
